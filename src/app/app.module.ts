@@ -9,6 +9,10 @@ import { SignupComponent } from './signup/signup.component';
 import { ContactComponent } from './contact/contact.component';
 import { ForgotPasswordComponent } from './forgot-password/forgot-password.component';
 import { ResetPasswordComponent } from './reset-password/reset-password.component';
+import { ProfileComponent } from './profile/profile.component';
+import { AboutComponent } from './about/about.component';
+import { TermsComponent } from './terms/terms.component';
+import { PrivacyComponent } from './privacy/privacy.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +22,11 @@ import { ResetPasswordComponent } from './reset-password/reset-password.componen
     SignupComponent,
     ContactComponent,
     ForgotPasswordComponent,
-    ResetPasswordComponent
+    ResetPasswordComponent,
+    ProfileComponent,
+    AboutComponent,
+    TermsComponent,
+    PrivacyComponent
   ],
   imports: [
     BrowserModule,
