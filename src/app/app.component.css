@@ -11,3 +11,11 @@
     background-color: #f5f5f5;
 }
 
+.footer_links {
+    list-style: none;
+}
+
+.footer_links li{
+    float: left;
+    margin-right: 20px;
+}
