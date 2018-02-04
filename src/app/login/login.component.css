@@ -1,0 +1,22 @@
+.login-btn{
+    display: block;
+    min-width: 200px;
+    margin: 10px auto;
+    text-align: left;
+    color: #fff;
+}
+.login-btn.login-facebook{
+    background-color: #3B5998;
+}
+.login-btn.login-twitter{
+    background-color: #55acee;
+}
+.login-btn.login-google{
+    background-color: #dd4b39;
+}
+.login-btn.login-linkedin{
+    background-color: #007bb5;
+}
+h4{
+    text-align: center;
+}
