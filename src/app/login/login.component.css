@@ -2,18 +2,7 @@
     min-width: 200px;
     margin: 10px auto;
     color: #fff;
-}
-.login-btn.login-facebook{
-    background-color: #3B5998;
-}
-.login-btn.login-twitter{
-    background-color: #55acee;
-}
-.login-btn.login-google{
-    background-color: #dd4b39;
-}
-.login-btn.login-linkedin{
-    background-color: #007bb5;
+    text-align: left;
 }
 h4{
     text-align: center;
